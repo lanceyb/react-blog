@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "react-blog",
   "version": "1.0.0",
   "description": "My Blog was built on ReactJS.",
